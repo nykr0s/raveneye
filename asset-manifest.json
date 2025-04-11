@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/raveneye/static/css/main.2d221364.css",
+    "main.js": "/raveneye/static/js/main.e440f443.js",
+    "static/media/raveneye.png": "/raveneye/static/media/raveneye.b1f089857b94c42ec77c.png",
+    "static/media/google.png": "/raveneye/static/media/google.73de479263454cf85c6c.png",
+    "static/media/amazon.png": "/raveneye/static/media/amazon.4a8aa23b725edabab06e.png",
+    "static/media/github.png": "/raveneye/static/media/github.69ffd9cd5a846c976177.png",
+    "static/media/netflix.png": "/raveneye/static/media/netflix.2ea6959de5a86bd775a9.png",
+    "index.html": "/raveneye/index.html",
+    "main.2d221364.css.map": "/raveneye/static/css/main.2d221364.css.map",
+    "main.e440f443.js.map": "/raveneye/static/js/main.e440f443.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2d221364.css",
+    "static/js/main.e440f443.js"
+  ]
+}
