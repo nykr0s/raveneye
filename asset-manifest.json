@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/raveneye/static/css/main.2d221364.css",
-    "main.js": "/raveneye/static/js/main.e440f443.js",
-    "static/media/raveneye.png": "/raveneye/static/media/raveneye.b1f089857b94c42ec77c.png",
-    "static/media/google.png": "/raveneye/static/media/google.73de479263454cf85c6c.png",
-    "static/media/amazon.png": "/raveneye/static/media/amazon.4a8aa23b725edabab06e.png",
-    "static/media/github.png": "/raveneye/static/media/github.69ffd9cd5a846c976177.png",
-    "static/media/netflix.png": "/raveneye/static/media/netflix.2ea6959de5a86bd775a9.png",
-    "index.html": "/raveneye/index.html",
-    "main.2d221364.css.map": "/raveneye/static/css/main.2d221364.css.map",
-    "main.e440f443.js.map": "/raveneye/static/js/main.e440f443.js.map"
+    "main.css": "https://raveneye.io/static/css/main.2d221364.css",
+    "main.js": "https://raveneye.io/static/js/main.9f5c90c1.js",
+    "static/media/raveneye.png": "https://raveneye.io/static/media/raveneye.b1f089857b94c42ec77c.png",
+    "static/media/google.png": "https://raveneye.io/static/media/google.73de479263454cf85c6c.png",
+    "static/media/amazon.png": "https://raveneye.io/static/media/amazon.4a8aa23b725edabab06e.png",
+    "static/media/github.png": "https://raveneye.io/static/media/github.69ffd9cd5a846c976177.png",
+    "static/media/netflix.png": "https://raveneye.io/static/media/netflix.2ea6959de5a86bd775a9.png",
+    "index.html": "https://raveneye.io/index.html",
+    "main.2d221364.css.map": "https://raveneye.io/static/css/main.2d221364.css.map",
+    "main.9f5c90c1.js.map": "https://raveneye.io/static/js/main.9f5c90c1.js.map"
   },
   "entrypoints": [
     "static/css/main.2d221364.css",
-    "static/js/main.e440f443.js"
+    "static/js/main.9f5c90c1.js"
   ]
 }
